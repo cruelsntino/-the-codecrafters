@@ -1,0 +1,13 @@
+SENTINEL FIELD REPORT — PROCESSED
+001. ✦ ACTION: fix the breach
+002. [REDACTED]: agent compromised
+003. this is a normal line
+004. ALL SYSTEMS FAILED
+005. extra spaces here
+006. another normal line
+007. ✦ ACTION: send backup
+008. [REDACTED]: mission failed
+009. lowercase line here
+010. UPPERCASE LINE HERE
+011. random text
+012. spaced line

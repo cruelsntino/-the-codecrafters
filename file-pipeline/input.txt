@@ -1,0 +1,14 @@
+   TODO: fix the breach
+CLASSIFIED: agent compromised
+--------------------------------
+this is a normal line
+ALL SYSTEMS FAILED
+   extra spaces here
+another normal line
+TODO: send backup
+CLASSIFIED: mission failed
+----------
+lowercase line here
+UPPERCASE LINE HERE
+random text
+   spaced line
