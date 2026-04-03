@@ -47,12 +47,14 @@ func main() {
 		split := strings.Fields(input)
 		if len(split) < 3 {
 			fmt.Println("Not enough arguments.")
+			continue
 		}
 		if len(split) > 3 {
 			fmt.Println("Too many Arguments")
+			continue
 		}
-		command := "convert"
-		if command != split[0] {
+		command := strings.ToLower(split[0])
+		if command != "convert" {
 			fmt.Println("Invalid Syntax, enter help for guidelines:")
 			continue
 		}
@@ -81,7 +83,7 @@ func main() {
 				fmt.Printf("ERROR: '%s' is an invalid bin\n", value)
 				continue
 			}
-			fmt.Printf("Decimal: %d", dec)
+			fmt.Printf("Decimal: %d\n", dec)
 		default:
 			fmt.Println("Inavlid Base: try again")
 		}
