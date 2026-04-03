@@ -18,4 +18,5 @@ The Base Converter handles three primary numbering systems:
 
 1. **Start the program**:
    ```bash
-   go run main.go
+   go run baseconv.go
+   
